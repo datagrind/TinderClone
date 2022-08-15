@@ -1,6 +1,6 @@
 A clone of Tinder UI with basic CRUD operations and using MERN stack.
 
-Home page of Project:
+(Current) Home page of Project:
 
 ![alt text](https://github.com/datagrind/TinderClone/blob/main/src/images/Screenshot%20(179).png)
 
