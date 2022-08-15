@@ -1,5 +1,13 @@
 A clone of Tinder UI with basic CRUD operations and using MERN stack.
 
+Home page of Project:
+
+![alt text](https://github.com/datagrind/TinderClone/blob/main/src/images/Screenshot%20(179).png)
+
+Actual Tinder Page
+
+![alt text](https://github.com/datagrind/TinderClone/blob/main/src/images/Screenshot%20(180).png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
